@@ -1,0 +1,6 @@
+/fineSSLenv/  
+/__pycache__/
+clip/__pycache__/
+utils/__pycache__
+datasets/__pycache__
+out/
